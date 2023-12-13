@@ -1,4 +1,4 @@
-package com.devsuperior.dscommerce;
+package com.devsuperior.dscommerce.services;
 
 import java.util.List;
 
